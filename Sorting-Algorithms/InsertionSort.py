@@ -4,7 +4,6 @@ if arr[i+1] > arr[i]
 else:
     put arr[i] at its correct position
     
-
 '''
 
 arr = [5, 7, 8, 4, 1, 6, 9, 2, 8] 
