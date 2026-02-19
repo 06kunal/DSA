@@ -66,3 +66,8 @@ def merge(arr,l,m, r):
 
 
 print(MergeSort(arr, l, r))
+
+
+# Time: O(nlogn)
+# Space: O(n) -> for the extra array that we used in merge.
+
