@@ -15,8 +15,7 @@ class Solution:
                 positive += 2
             else:
                 res[negative] = i
-                negative+=2
-                
+                negative+=2                
         return res
     
 sol = Solution()
